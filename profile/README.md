@@ -6,7 +6,7 @@
 
 *Гласът на учениците в ефира — новини, интервюта, музика и забавни рубрики.*
 
-[🌐 Сайт](https://podcast.school32.com) · [📺 YouTube](https://www.youtube.com/@schoolpodcast32) · [📸 Instagram](https://www.instagram.com/32.podcast/) · [📘 Facebook](https://www.facebook.com/school32.bg/)
+[🌐 Сайт](https://www-6wp.pages.dev/) · [📺 YouTube](https://www.youtube.com/@schoolpodcast32) · [📸 Instagram](https://www.instagram.com/32.podcast/) · [📘 Facebook](https://www.facebook.com/school32.bg/)
 
 </div>
 
@@ -45,7 +45,7 @@
 Винаги търсим нови таланти — ако искаш да станеш гост, да предложиш тема за рубрика или да се присъединиш към екипа, пиши ни:
 
 - 📧 **school32.podcast32@school32.com**
-- 💌 [Форма за контакт](https://podcast.school32.com/contact)
+- 💌 [Форма за контакт](https://www-6wp.pages.dev/contact)
 
 ## 📜 Лиценз
 
